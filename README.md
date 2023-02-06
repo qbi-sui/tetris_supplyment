@@ -23,6 +23,13 @@
 
 コード：stringCount.py
 
+出力例
+```
+文字列を入力してください:PythonTetrisIsSugokuTanoshii
+数えたい文字を1文字入力してください:i
+PythonTetrisIsSugokuTanoshii　の中に　i　は　3　個あります。
+```
+
 # 【演習２】BattlePlayer
 準備中
 
