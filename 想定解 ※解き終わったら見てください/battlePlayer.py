@@ -35,7 +35,7 @@ while True:
     time.sleep(1)
 
     # ダメージは1ループでしか使わないのでクラスには組み込みませんでした
-    # ダメージ読み込み、
+    # ダメージを決定し、相手にダメージを与える
     playerAttackDamage = random.randint(1,10)
     computer.damaged(playerAttackDamage)
     print("相手に " + str(playerAttackDamage) + " ダメージを与えました")
